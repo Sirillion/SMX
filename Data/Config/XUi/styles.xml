@@ -1,6 +1,6 @@
 <styles>
 
-<!-- <<< SMX v163b1e r01 START - BY SIRILLION >>> -->
+<!-- <<< SMX v163b1e r02 START - BY SIRILLION >>> -->
 
 	<style name="SMXUnitFrameWindow" type="window">
 		<style_entry name="pos" value="9,20" />
@@ -124,7 +124,7 @@
 		<style_entry name="foregroundlayer" value="true" />
 	</style>
 	
-<!-- <<< SMX v163b1e r01 END - BY SIRILLION >>> -->
+<!-- <<< SMX v163b1e r02 END - BY SIRILLION >>> -->
 
 	<global>
 		<!-- 	

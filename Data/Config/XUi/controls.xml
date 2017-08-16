@@ -1,6 +1,6 @@
 <controls>
 
-<!-- <<< SMX v163b1e r01 START - BY SIRILLION >>> -->
+<!-- <<< SMX v163b1e r02 START - BY SIRILLION >>> -->
 
 	<SMX_tb_item_stack_uf1>
 		<rect controller="ItemStack" style="SMXTBItemStack, hover" collider_scale="1.1">
@@ -54,7 +54,7 @@
 		</panel>
 	</SMX_active_buff_entry2>
 
-<!-- <<< SMX v163b1e r01 END - BY SIRILLION >>> -->
+<!-- <<< SMX v163b1e r02 END - BY SIRILLION >>> -->
 
 	<slider>
 		<rect depth="1" controller="Slider" height="24">
